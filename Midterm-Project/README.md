@@ -2,7 +2,7 @@
 
 Midterm I Project for DATS 6202: Machine Learning I by Prince Birring & Ryan Orsini
 
-Dataset: https://www.kaggle.com/nhtsa/2015-traffic-fatalities
+Dataset: https://www.kaggle.com/nhtsa/2015-traffic-fatalities - Only used accident.csv and person.csv for this project.
 
 ## Identify & Acquire
 Acceptable performance for this standard is based on how well you've applied specific learning goals within your deliverable. To review the full list of data science standards, see the course syllabus.
