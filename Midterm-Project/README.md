@@ -1,6 +1,6 @@
-# Midterm I - 2015 Traffic Fatalities 
+# Midterm Project - 2015 Traffic Fatalities 
 
-Midterm I Project for DATS 6202: Machine Learning I by Prince Birring & Ryan Orsini
+Midterm Project for DATS 6202: Machine Learning I by Prince Birring & Ryan Orsini
 
 Dataset: https://www.kaggle.com/nhtsa/2015-traffic-fatalities - Only used accident.csv and person.csv for this project.
 
