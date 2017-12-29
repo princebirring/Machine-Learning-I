@@ -2,7 +2,7 @@
 
 Final Project for DATS 6202: Machine Learning I by Prince Birring & Ryan Orsini
 
-Dataset: https://www.kaggle.com/nhtsa/2015-traffic-fatalities/data
+Dataset: https://www.kaggle.com/joniarroba/noshowappointments/data
 
 ## Identify & Acquire
 Acceptable performance for this standard is based on how well you've applied specific learning goals within your deliverable. To review the full list of data science standards, see the course syllabus.
