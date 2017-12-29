@@ -13,3 +13,7 @@ This course is an introduction to Machine Learning and its core models and algor
 3.	Train, test and validate neural network models for machine learning concepts.
 4.	Understand the core concept of supervise, and unsupervised learning.
 5.	Apply the machine learning concepts to practical problems.
+
+## Projects:
+1. Midterm Project - 2015 Traffic Fatalities
+2. Final Project - Medical Appointment No Shows
